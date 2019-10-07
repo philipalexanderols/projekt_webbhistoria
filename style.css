@@ -2,7 +2,8 @@
     background-image: url("Bild Sida.png");
     background-repeat: no-repeat; 
     background-size: cover;
-    margin-top:20px;
+    
+
 }.nav_bar--horizontal {
     list-style-type: none;
     margin: 0;
