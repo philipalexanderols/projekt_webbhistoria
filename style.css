@@ -26,5 +26,6 @@
   
   .nav_bar--horizontal li {
     float: left;
+    margin-left: 5%;
   }
   
