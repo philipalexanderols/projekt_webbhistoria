@@ -1,0 +1,14 @@
+Vad ska användaren testa?
+    Användaren ska testa hur användarvänlig hemsidan är.
+    Sättet som bild och text ligger placerade på sidan.
+
+Hur ska användaren testa?
+    Användaren ska kolla igenom alla delar av hemsidan och säga vad den tycker och tänker.
+    Användaren ska försöka navigera runt på sidan utan instruktioner om hur man gör det.
+
+Vad ska dokumenteras?
+    Alla användarens synpunkter ska dokumenteras.
+    Om användaren tycker att det är enkelt eller svårt att navigera på hemsidan ska dokumenteras.
+
+Test:
+    
